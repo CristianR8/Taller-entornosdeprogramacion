@@ -1,10 +1,2 @@
-# Taller Backend Spring Boot
+# Taller Entonos de programacion
 
-Spring Boot en vscode
-
-## Dependencias 
-
-- Spring Web
-- Spring Dev Tools
-- Spring Data JPA
-- MySQL Driver
